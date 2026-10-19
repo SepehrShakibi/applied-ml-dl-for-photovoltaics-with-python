@@ -1,0 +1,22 @@
+original_name,standard_name
+Day,day
+Cosine of Day,cosine_of_day
+Hour,hour
+Cosine of Hour,cosine_of_hour
+Air Temperature,air_temperature
+Dewpoint,dewpoint
+Wind Speed,wind_speed
+Air Pressure,air_pressure
+Weather Condition,weather_condition
+Solar Radiation,solar_radiation
+PV-1 Cosine Value of the Solar Incidence Angle,pv_1_cosine_value_of_the_solar_incidence_angle
+PV-1 Power,pv_1_power
+PV-2 Cosine Value of the Solar Incidence Angle,pv_2_cosine_value_of_the_solar_incidence_angle
+PV-2 Power,pv_2_power
+PV-3 Cosine Value of the Solar Incidence Angle,pv_3_cosine_value_of_the_solar_incidence_angle
+PV-3 Power,pv_3_power
+PV-4 Cosine Value of the Solar Incidence Angle,pv_4_cosine_value_of_the_solar_incidence_angle
+PV-4 Power,pv_4_power
+PV-5 Cosine Value of the Solar Incidence Angle,pv_5_cosine_value_of_the_solar_incidence_angle
+PV-5 Power,pv_5_power
+Total PV Power,total_pv_power
