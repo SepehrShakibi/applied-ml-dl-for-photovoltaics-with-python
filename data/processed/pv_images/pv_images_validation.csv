@@ -1,0 +1,13 @@
+sample_id,cell_id,fault_type,label,el_path,bw_path,hdr_path
+0.2_D16,0.2,thermal,1,images/EL/0.2_D16_EL_rt_cr.png,images/BW/0.2_D16_BN_rt_cr.png,images/HDR/0.2_D16_HDR_rt_cr.png
+0.1_D03,0.1,mechanical,0,images/EL/0.1_D03_EL_rt_cr.png,images/BW/0.1_D03_BN_rt_cr.png,images/HDR/0.1_D03_HDR_rt_cr.png
+0.2_D09,0.2,mechanical,0,images/EL/0.2_D09_EL_rt_cr.png,images/BW/0.2_D09_BN_rt_cr.png,images/HDR/0.2_D09_HDR_rt_cr.png
+0.2_D39,0.2,electric,3,images/EL/0.2_D39_EL_rt_cr.png,images/BW/0.2_D39_BN_rt_cr.png,images/HDR/0.2_D39_HDR_rt_cr.png
+0.1_D12,0.1,mechanical,0,images/EL/0.1_D12_EL_rt_cr.png,images/BW/0.1_D12_BN_rt_cr.png,images/HDR/0.1_D12_HDR_rt_cr.png
+0.1_D20,0.1,mechanical,0,images/EL/0.1_D20_EL_rt_cr.png,images/BW/0.1_D20_BN_rt_cr.png,images/HDR/0.1_D20_HDR_rt_cr.png
+0.2_D15,0.2,mechanical,0,images/EL/0.2_D15_EL_rt_cr.png,images/BW/0.2_D15_BN_rt_cr.png,images/HDR/0.2_D15_HDR_rt_cr.png
+0.1_D32,0.1,thermal,1,images/EL/0.1_D32_EL_rt_cr.png,images/BW/0.1_D32_BN_rt_cr.png,images/HDR/0.1_D32_HDR_rt_cr.png
+0.1_D10,0.1,mechanical,0,images/EL/0.1_D10_EL_rt_cr.png,images/BW/0.1_D10_BN_rt_cr.png,images/HDR/0.1_D10_HDR_rt_cr.png
+0.2_S1,0.2,dirt,2,images/EL/0.2_S1_EL_rt_cr.png,images/BW/0.2_S1_BN_rt_cr.png,images/HDR/0.2_S1_HDR_rt_cr.png
+0.1_D22,0.1,mechanical,0,images/EL/0.1_D22_EL_rt_cr.png,images/BW/0.1_D22_BN_rt_cr.png,images/HDR/0.1_D22_HDR_rt_cr.png
+0.2_D03,0.2,dirt,2,images/EL/0.2_D03_EL_rt_cr.png,images/BW/0.2_D03_BN_rt_cr.png,images/HDR/0.2_D03_HDR_rt_cr.png

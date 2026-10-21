@@ -1,0 +1,3 @@
+sample_id,cell_id,fault_type,el_path,bw_path,hdr_path
+0.1_D01,0.1,unknown,images/EL/0.1_D01_EL_rt_cr.png,images/BW/0.1_D01_BN_rt_cr.png,images/HDR/0.1_D01_HDR_rt_cr.png
+0.2_D00,0.2,unknown,images/EL/0.2_D00_EL_rt_cr.png,images/BW/0.2_D00_BN_rt_cr.png,images/HDR/0.2_D00_HDR_rt_cr.png
